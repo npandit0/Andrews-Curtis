@@ -1,0 +1,1 @@
+This project aims to eliminate counterexamples to the Andrews-Curtis conjecture in group theory using a reinforcement learning approach. Please see the PDF (andrews_curtis_paper.pdf) for more information!
